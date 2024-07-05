@@ -10,23 +10,14 @@
 
 ---
 
-<div align="center">
-<p style="font-size: 3rem; font-family: fira code">My Octocat</p>
-<img src="octocat_simplex-t.png" width="500" alt="My Octocat">
-<p align="center" style="font-size: 1.5rem; font-family: fira code"><a href="https://myoctocat.com/gallery/" style="color: #ffc; text-decoration: none;">Make yours</a>
-</p>
-</div>
-
----
-
 # 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-05122a?style=plastic&logo=tailwind-css)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;-->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)
